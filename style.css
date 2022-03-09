@@ -1,5 +1,9 @@
 a:hover{color:green;}
-.box{flex-direction: column;}
-.main{flex: auto;}
-.aside{flex:1;}
-.article{flex:3;}
+.box{display:flex;
+  flex-direction: column;}
+.main{display:flex;
+  flex: auto;}
+.aside{display:flex;
+  flex:1;}
+.article{display:flex;
+  flex:3;}
