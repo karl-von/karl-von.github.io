@@ -9,8 +9,9 @@ a:hover{color:green;}
 }
 .aside{
   flex:1;
- background-color:yellow;}
+ background-color:yellow;
+}
 .article{
   flex:3;
-   background-color:green
+   background-color:green；
 }
