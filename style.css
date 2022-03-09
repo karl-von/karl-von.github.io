@@ -4,7 +4,7 @@ a:hover{color:green;}
   background-color:red;
 }
 .main{display:flex;
-  flex: auto;
+  flex:auto;
    background-color:blue;
 }
 .aside{
