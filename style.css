@@ -1,5 +1,5 @@
 a:hover{color:green;}
-.box{display:flex;
+.body{display:flex;
   flex-direction: column;
 }
 .main{display:flex;
