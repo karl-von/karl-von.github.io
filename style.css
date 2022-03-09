@@ -1,7 +1,5 @@
 a:hover{color:green;}
-.box{display: flex;
-  flex-direction: column;}
-.item{display: flex;
-  flex: auto;}
-.item1{flex:1;}
-.item2{flex:3;}
+.box{flex-direction: column;}
+.main{flex: auto;}
+.aside{flex:1;}
+.article{flex:3;}
