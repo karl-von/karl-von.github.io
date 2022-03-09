@@ -3,6 +3,7 @@ a:hover{color:green;}
   flex-direction: column;
 background-color:red;}
 .main{display:flex;
+   flex-direction:row;
   flex: auto;
 background-color:green;}
 .aside{
