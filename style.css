@@ -3,12 +3,9 @@ a:hover{color:green;}
   flex-direction: column;
 background-color:red;}
 .main{display:flex;
-   flex-direction:row;
-  flex: auto;
-background-color:green;}
+  flex: auto;}
 .aside{
-  flex:1;
-background-color:yellow;}
+  flex:1;}
 .article{
   flex:3;
-background-color:blue;}
+}
