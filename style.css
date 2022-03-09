@@ -1,7 +1,7 @@
 a:hover{color:green;}
 .box{display:flex;
   flex-direction: column;
-background-color:red;}
+}
 .main{display:flex;
   flex: auto;}
 .aside{
