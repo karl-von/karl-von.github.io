@@ -1,11 +1,16 @@
 a:hover{color:green;}
 .body{display:flex;
   flex-direction: column;
+  background-color:red;
 }
 .main{display:flex;
-  flex: auto;}
+  flex: auto;
+   background-color:blue;
+}
 .aside{
-  flex:1;}
+  flex:1;
+ background-color:yellow;}
 .article{
   flex:3;
+   background-color:green
 }
