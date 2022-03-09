@@ -5,9 +5,9 @@ background-color:red;}
 .main{display:flex;
   flex: auto;
 background-color:green;}
-.main.aside{
+.aside{
   flex:1;
 background-color:yellow;}
-.main.article{
+.article{
   flex:3;
 background-color:blue;}
