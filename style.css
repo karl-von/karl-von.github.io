@@ -1,9 +1,13 @@
 a:hover{color:green;}
 .box{display:flex;
-  flex-direction: column;}
+  flex-direction: column;
+background-color:red;}
 .main{display:flex;
-  flex: auto;}
+  flex: auto;
+background-color:green;}
 .aside{display:flex;
-  flex:1;}
+  flex:1;
+background-color:yellow;}
 .article{display:flex;
-  flex:3;}
+  flex:3;
+background-color:blue;}
