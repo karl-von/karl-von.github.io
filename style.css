@@ -6,12 +6,15 @@ body{display:flex;
 main{display:flex;
   flex:auto;
    background-color:blue;
+
 }
 aside{
   flex:1;
- background-color:yellow;
+
 }
 article{
-  flex:3;
-   background-image:url("https://tse1-mm.cn.bing.net/th/id/R-C.d2cf6516e4ff825de6373592e7d16caf?rik=2HnJoZI9NQpRLg&riu=http%3a%2f%2fi2.hdslb.com%2fbfs%2farchive%2fb1560483a8fe306329632ebfd663de84174de749.png&ehk=dldO%2fuMy8lxAL%2bXd8qtELEHBUVtLV51XEBkSwdpqEao%3d&risl=1&pid=ImgRaw&r=0")
+  flex:3;  
+}
+aticle,aside{
+  background-image:url("https://www.ign.com.cn/sm/t/ign_cn/cover/s/sid-meiers/sid-meiers-civilization-vi_cxhx.1024.jpg")
 }
