@@ -1,5 +1,7 @@
 a:hover{color:green;}
 body{display:flex;
+  font-family: "微软雅黑";
+  font-color:"white";
   flex-direction:column;
 background:  linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(https://www.ign.com.cn/sm/t/ign_cn/cover/s/sid-meiers/sid-meiers-civilization-vi_cxhx.1024.jpg) no-repeat top center fixed;background-size: cover;
 }
