@@ -1,7 +1,7 @@
 a:hover{color:green;}
 body{display:flex;
   flex-direction:column;
-
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://media.vgbaike.com/bgpic/2022/0223/11/252530364034869.jpg) no-repeat top center fixed;background-size: cover;
 }
 main{display:flex;
   flex:auto;
