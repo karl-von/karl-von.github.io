@@ -1,7 +1,7 @@
 a:hover{color:green;}
 body{display:flex;
   flex-direction:column;
-background-image:  url(https://media.vgbaike.com/bgpic/2022/0223/11/252530364034869.jpg) no-repeat top center fixed;background-size: cover;
+background-image:  url(https://www.ign.com.cn/sm/t/ign_cn/cover/s/sid-meiers/sid-meiers-civilization-vi_cxhx.1024.jpg) no-repeat top center fixed;background-size: cover;
 }
 main{display:flex;
   flex:auto;
